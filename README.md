@@ -31,6 +31,3 @@ This project implements a basic relational algebra system in C++ that supports v
 3. **Execute Queries:** Use the syntax provided to perform operations on your relations.
 4. **Exit**: Type `exit` to terminate the query session.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
